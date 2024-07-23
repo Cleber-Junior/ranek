@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-     <a href="PROJECT__URL">📱 Visite o Projeto</a>
+     <a href="https://github.com/Cleber-Junior/ranek/">📱 Visite o Projeto</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
