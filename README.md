@@ -1,6 +1,13 @@
 <h1 align="center" style="font-weight: bold;">Ranek 💻</h1>
 
 <p align="center">
+ • <a href="#tech">Tecnologias</a> • 
+ <a href="#started">Executando na sua máquina</a> • 
+ <a href="#contribute">Contribuindo</a>
+</p>
+
+
+<p align="center">
     <b>Projeto desenvolvido no curso de React Completo do curso da Origamid. Ranek é um sistema simples de um loja, apenas o Front-End foi feito com a utilização da API do curso.</b>
 </p>
 
