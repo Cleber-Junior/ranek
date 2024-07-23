@@ -39,7 +39,7 @@
 
 Aqui está a descrição de como rodar este projeto na sua maquina
 
-<h3>Prerequisitos</h3>
+<h3>Pre-requisitos</h3>
 
 Aqui está ma lista dos pre-requisitos necessarios para rodas o projeto. Por exemplo:
 
