@@ -43,8 +43,9 @@ Aqui está a descrição de como rodar este projeto na sua maquina
 
 Aqui está ma lista dos pre-requisitos necessarios para rodas o projeto. Por exemplo:
 
-- [NodeJS](https://github.com/)
+- [NodeJS](https://nodejs.org/pt)
 - [Git](https://github.com)
+- [Vite](https://nodejs.org/pt)
 
 <h3>Clonando</h3>
 
